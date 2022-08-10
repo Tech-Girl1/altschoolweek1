@@ -1,2 +1,2 @@
 alert("hello")
-alert("food")
+alert("GIVE ME FOOD")
